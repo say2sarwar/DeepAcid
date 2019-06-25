@@ -5,8 +5,11 @@
 
 ### Requirement
 Python 3.xx
+
 Tensorflow
+
 tqdm
+
 sklearn
 
 
