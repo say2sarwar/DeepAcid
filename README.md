@@ -13,6 +13,8 @@ tqdm
 sklearn
 
 
+![Network Model](https://github.com/say2sarwar/DeepAcid/blob/master/Images/model2.png)
+
 ## References
 
 [VGG16](https://arxiv.org/abs/1409.1556)
