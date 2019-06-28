@@ -14,7 +14,7 @@ Python 3.xx
 Network Model for Classifcation. 
 
 ## Performance
-![Data snap](https://github.com/say2sarwar/DeepAcid/blob/master/Images/loss.png)
+![Data snap](https://github.com/say2sarwar/DeepAcid/blob/master/Images/data_dna5.png)
 Word2vec Seq to seq relation visualization.
 ![Word2vec](https://github.com/say2sarwar/DeepAcid/blob/master/Images/Screenshot_2019-06-20%20Untitled1(1).png)
 
