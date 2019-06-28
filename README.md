@@ -6,14 +6,12 @@
 ### Requirement
 Python 3.xx
 
-Tensorflow
 
-tqdm
-
-sklearn
 
 
 ![Network Model](https://github.com/say2sarwar/DeepAcid/blob/master/Images/model2.png)
+
+Network Model for Classifcation. 
 
 ## References
 
