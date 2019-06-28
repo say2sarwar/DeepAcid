@@ -1,8 +1,5 @@
 # Amino-acids-classifcation-
 
-## Code is coming
-
-
 ### Requirement
 Python 3.xx
 
