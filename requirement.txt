@@ -1,0 +1,5 @@
+tensorlfow
+tqdm
+sklearn
+matplotlib
+pandas
