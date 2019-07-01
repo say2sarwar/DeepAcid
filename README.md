@@ -1,6 +1,6 @@
-# Amino-acids-classifcation-
+# Amino acids classifcation
 
-# Under Construction
+# Under Construction for Now
 
 ### Requirement
 Python 3.xx
