@@ -30,9 +30,13 @@ Word2vec Seq to seq relation visualization.
 
 
 (@article{khan2019deepacid,
+
   title={DeepAcid: Classification of macromolecule type based on sequences of amino acids},
+  
   author={khan, sarwar},
+  
   journal={arXiv preprint arXiv:1907.03532},
+  
   year={2019}
 })
 
