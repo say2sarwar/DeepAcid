@@ -27,7 +27,14 @@ Word2vec Seq to seq relation visualization.
 ![Confusion matrix](https://github.com/say2sarwar/DeepAcid/blob/master/Images/Screenshot_2019-06-24%20Untitled3(1).png)
 
 ### Cite Us
-[](Khan, Sarwar. "DeepAcid: Classification of macromolecule type based on sequences of amino acids." arXiv preprint arXiv:1907.03532 (2019))
+
+
+(@article{khan2019deepacid,
+  title={DeepAcid: Classification of macromolecule type based on sequences of amino acids},
+  author={khan, sarwar},
+  journal={arXiv preprint arXiv:1907.03532},
+  year={2019}
+})
 
 ## References
 
