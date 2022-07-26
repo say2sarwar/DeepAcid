@@ -1,8 +1,9 @@
 # Amino acids classifcation
+# Classification of Macromolecule Type Based on Sequences of Amino Acids Using Deep Learning
 
 # Under Construction for Now
 
-[Report](https://arxiv.org/abs/1907.03532)
+[Report](https://arxiv.org/abs/1907.03532v3)
 
 ### Requirement
 Python 3.xx
