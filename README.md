@@ -31,12 +31,19 @@ Word2vec Seq to seq relation visualization.
 
 
 (@article{khan2022classification,
+
   title={Classification of Macromolecules Based on Amino Acid Sequences Using Deep Learning},
+  
   author={Khan, Sarwar and Ali, Imad and Ghaffar, Faisal and Mazhar-ul-Haq, Qazi},
+  
   journal={Engineering, Technology \& Applied Science Research},
+  
   volume={12},
+  
   number={6},
+  
   pages={9491--9495},
+  
   year={2022}
 })
 
